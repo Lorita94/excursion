@@ -5,3 +5,20 @@
     color: white;
     text-align: center;
 }
+
+html {
+    background-color: black;
+}
+
+a {
+    color: aquamarine;
+    font: 16px;
+}
+
+p {
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
